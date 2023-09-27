@@ -6,3 +6,8 @@ baseURL: https://movecommons.web.deuxfleurs.fr
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
 
+## DEUXFLEURS
+deployment:
+  targets:
+    - name: "production"
+      URL: "s3://movecommons?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage"
