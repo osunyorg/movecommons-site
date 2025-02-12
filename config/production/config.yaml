@@ -2,6 +2,11 @@
 
 baseURL: https://movecommons.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 4c5d277e-eded-4052-8461-1e72fe12294a
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
